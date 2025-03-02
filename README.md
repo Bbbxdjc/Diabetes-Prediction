@@ -9,4 +9,6 @@ This repository contains the complete code for our project on diabetes predictio
 - **2D-CNN Model**
 - **2D-CNN-AR Model** (Hybrid model combining 2D-CNN and Artificial Records)
 
+### Special Note for the LSTM Model
 
+For the LSTM model, a separate environment with Python 3.6 and TensorFlow is recommended.
